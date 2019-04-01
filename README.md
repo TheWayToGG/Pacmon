@@ -5,6 +5,6 @@ It was a final project for one of the studies subject, in 2017.
 
 It was my first contact with real Java.
 
-#How to launch?
+# How to launch?
 
 To launch the game you need to either compile the class Game or start the PAKMON1.1.jar file, which is included in the repository.
